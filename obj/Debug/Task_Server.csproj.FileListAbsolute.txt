@@ -1,0 +1,14 @@
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server.csproj.AssemblyReference.cache
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\MainWindow.baml
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\MainWindow.g.cs
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\App.g.cs
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server_MarkupCompile.cache
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server.g.resources
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server.Properties.Resources.resources
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server.csproj.GenerateResource.cache
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server.csproj.CoreCompileInputs.cache
+C:\Users\mertd\source\repos\Task_Server\bin\Debug\Task_Server.exe.config
+C:\Users\mertd\source\repos\Task_Server\bin\Debug\Task_Server.exe
+C:\Users\mertd\source\repos\Task_Server\bin\Debug\Task_Server.pdb
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server.exe
+C:\Users\mertd\source\repos\Task_Server\obj\Debug\Task_Server.pdb
